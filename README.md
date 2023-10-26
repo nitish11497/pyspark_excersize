@@ -1,3 +1,3 @@
-# pyspark_excersize>
+# pyspark exercise>
 
-excersize with pyspark from starting. 
+exercise with pyspark from starting. 
